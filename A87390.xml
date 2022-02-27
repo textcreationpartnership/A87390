@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the occasions and causes of the late Lord Gen. Cromwell's anger and indignation against Lieut. Col. George Joyce, (sometimes Cornet Joyce, who secured the King at Holmby) &amp; his proceedings against him to casheer him from the Army, and imprison and destroy him in his estate.</title>
+            <author>Joyce, George, fl. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87390</idno>
+            <idno type="STC">Wing J1124</idno>
+            <idno type="STC">Thomason 669.f.21[50]</idno>
+            <idno type="STC">ESTC R203475</idno>
+            <idno type="EEBO-CITATION">99896096</idno>
+            <idno type="PROQUEST">99896096</idno>
+            <idno type="VID">154013</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87390)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154013)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the occasions and causes of the late Lord Gen. Cromwell's anger and indignation against Lieut. Col. George Joyce, (sometimes Cornet Joyce, who secured the King at Holmby) &amp; his proceedings against him to casheer him from the Army, and imprison and destroy him in his estate.</title>
+                  <author>Joyce, George, fl. 1647.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>n.s.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Annotation on Thomason copy: "June 15. 1659".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Joyce, George, fl. 1647 --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154013:1" rendition="simple:additions"/>
+            <head>A True NARRATIVE OF THE <hi>Occaſions</hi> and <hi>Cauſes</hi> of the late Lord Gen.
+<hi>Crom<g ref="char:EOLhyphen"/>well</hi>'s Anger and Indignation againſt Lieut. Col. <hi>George Joyce,</hi>
+(ſometimes Cornet <hi>Joyce,</hi> who ſecured the <hi>King</hi> at <hi>Holmby</hi>) &amp; his
+pro<g ref="char:EOLhyphen"/>ceedings againſt him to Caſheer him from the Army, and impriſon and deſtroy him in his
+Eſtate.</head>
+            <p>A Little after the King was brought into the Cuſtody, or Quarters of the Army, Notice was
+taken, that <hi>Cromwell</hi> lifted up his hands in the Parliament, and called God, Angels, and
+Men to witneſs, That he knew nothing of <hi>Joyce</hi>'s going for the King.</p>
+            <p>Thereupon <hi>Joyce</hi> asked the ſaid Gen. <hi>Cromwell,</hi> What made him to ſpeak
+ſuch words? and whether he intended to do as the King had done before him, <hi>viz.</hi> Swear
+and Lye; and bid him mark, What would be the end of ſuch things; cautioning him to take heed and
+beware of ſuch Actions: But he ſlighted thoſe warnings; and ſoon after flattered the ſaid
+<hi>Joyce</hi> again with tears of ſeeming repentance.</p>
+            <p>The next Occaſion of difference between the ſaid <hi>Joyce</hi> and <hi>Cromwell,</hi> was
+concerning the Marqueſs of <hi>Argile</hi>'s carriage in <hi>Scotland;</hi> at which time
+ſpeaking plainly to him according unto his own exhortations; putting him in mind of former
+neglects of his, he immediately fell into a violent fit of paſſion againſt the ſaid
+<hi>Joyce;</hi> and laying his hand upon his ſword, uttered many threats againſt him in the
+preſence of Capt. <hi>John Vernon,</hi> and one more.</p>
+            <p>Not long after this, the ſaid <hi>Joyce,</hi> with ſome other Officers went with a Petition
+to St. <hi>Albans</hi> to General <hi>Fairfax</hi> for Juſtice againſt Capital offenders: And
+from thence was ſent to <hi>Pomfret</hi> Leaguer, with a Letter and Meſſage from our General
+and Army, to know whether that Brigade under <hi>Cromwell</hi> would joyn with us. And while he was
+waiting for an anſwer, <hi>Cromwell</hi> took an occaſion to fall out with him, and in a
+railing manner, called him Raſcall many times, and with great threats ſaid, That he would make
+him write a Vindication of him, againſt a book intuled, <hi>The Grand deſign
+diſco<g ref="char:EOLhyphen"/>vered.</hi> Wherein was many things declared concerning <hi>Cromwell</hi>'s carriage
+towards <hi>Joyce,</hi> before he went to <hi>Holmby</hi> for the King: which afterwards he called
+God to witneſs he knew nothing of.</p>
+            <p>And had it not been for Col. <hi>Dean</hi> &amp; others, who through the mercy of God prevented
+him, he had in all probability done him miſchief at the ſame time.</p>
+            <p>Not long after this, the Parliament was to be purged, which the ſaid <hi>Joyce</hi>
+proteſting againſt, was by the ſaid <hi>Cromwell</hi> threatned to be deſtroyed.</p>
+            <p>But it came to ſuch a height at laſt, that the ſaid Parliament muſt be diſ<g ref="char:EOLhyphen"/>ſolved
+forthwith; againſt which the ſaid <hi>Joyce</hi> proteſted, and gave him his reaſons for
+it, <hi>viz.</hi> Firſt, he feared he deſigned to be King by it. Secondly, That if he
+diſſolved the Parliament, there would be no Legal way to raiſe moneys
+<pb n="2" facs="tcp:154013:2"/>
+for the Army; which would be a means to take off the affections of all the Parliaments friends;
+deſiring therefore it might not be diſſolved, untill they had by our means Introduced a more
+righteous and equal Government, which in our Declarations and Remonſtrances they had held forth.
+Then was a certain ſelect company of men to be ſent for out of ſeveral Counties; the ſaid
+<hi>Joyce</hi> proteſted againſt that likewiſe, ſtill telling him, that he intended by them
+to make himſelf King. At which he was extreamly angry with him, and in a great rage — After
+this,</p>
+            <p>About the year 1650, one Mr. <hi>Hen. Philpott</hi> being chief Ranger of <hi>Finckley</hi>-Park
+in <hi>Hampſhire,</hi> by a Patent from the late King; the ſaid Park, for the Delinquency of
+the ſaid <hi>Philpott,</hi> was ſequeſtred; by which means it came into the hands of the
+<hi>Lord de la Ware,</hi> who never accounted to the Common<g ref="char:EOLhyphen"/>wealth for one penny of the
+profits.</p>
+            <p>Whereupon one Mr. <hi>Villers Philpott,</hi> Kinſman to the former, deſired him, that in as
+much as his Coſin was beyond the Seas, that he would get the ſaid Park into his
+poſſeſſion, and he would engage, that his Kinſman, upon his coming over, ſhould do this
+<hi>Commonwealth</hi> very ſignal Services, and ſuch, as few beſides himſelf were able to
+perform.</p>
+            <p>To the latter he very readily hearkened, and thereupon procured Mr. <hi>Henry Philpott</hi> to
+come over; which he accordingly did, and gave ſo good an ac<g ref="char:EOLhyphen"/>count of affairs abroad, that it came
+not ſhort of his Kinſmans word, nor his expectation: But for the former, he was altogether
+unwilling, and offer'd him divers reaſons againſt it, although his Kinſman upon his coming
+over, had made him ſeveral proffers, of aſſigning all his intereſt in the ſaid Park unto
+him; which he as often refuſed.</p>
+            <p>Notwithſtanding which, he was continually importuned by both, but no<g ref="char:EOLhyphen"/>thing prevailing, they
+deſired him to offer it to ſome friend of his, and al<g ref="char:EOLhyphen"/>leadg'd this, That it were indifferent to
+them, whoever had it, ſo it were out of the hands of him that then enjoy'd it.</p>
+            <p>But he being as much to ſeek in this, as unwilling in the former; they earn<g ref="char:EOLhyphen"/>eſtly entreated
+him, that in regard of his more then ordinary Knowledge, (as they would perſwade him he had) of
+the L.G. <hi>Cromwel,</hi> that he would prevail with him, or one of his Sons, to take it into
+their hands; which, after ſome time, and perſwaſion, he brought to this iſſue, That upon
+the aſſignment of Mr. <hi>Phil<g ref="char:EOLhyphen"/>pott,</hi> and the reſignation of the Lord <hi>de la
+Ware,</hi> Mr. <hi>Richard Cromwell</hi> deſired to take it: all which being accordingly done, he
+was poſſeſt of it, and hath ever ſince enjoyed it. But farther, there was this agreement
+between Mr. <hi>Richard Cromwell,</hi> Mr. <hi>Philpott,</hi> and him ſelf, That if ever the
+ſaid Park were expoſed to ſale, that he ſhould have the ſole right of purchaſing it,
+before either of them two: In order to which, he bought up all the Arrears of <hi>Portſmouth,
+Hampton,</hi> &amp; the better part of the <hi>Iſle of Wight,</hi> at 7 s. 6 d. <hi>per</hi> l.
+deeming him ſelf obliged in conſcience to allow the Souldiers (who had equally ventured their
+lives with him ſelf) a more proportionable rate, then the common prices of 1 <hi>s.</hi> 18
+<hi>d. per</hi> l.</p>
+            <p>After this, the Parliament made an Act for the ſale of Kings Lands, of which the Park
+aforeſaid being parcel, it was amongſt others ſurvey'd, and expoſed to ſale: he having
+notice of it, by the conſent of the Lord <hi>Richard,</hi> went to the Committee, and informing
+them of the matter, at large, they ordered, that a ſtop ſhould be put to the ſale of the
+ſaid Park for the preſent, and that when ever it was to be ſold, him ſelf ſhould have the
+preemption; giving this for the reaſon of their order, That he had deſerved better then ſo
+ſmall a courteſie: by which means the Lord <hi>Richard</hi> enjoy'd the ſaid Park between 4
+or 5 years longer, his Debenters all that while lying dead upon his hands.</p>
+            <p>By this time the greateſt part, if not all the Kings Lands being ſold, comes in one Capt.
+<hi>Urland,</hi> and pretends a diſcovery of the ſaid park; whereupon
+<pb n="3" facs="tcp:154013:2"/>
+the Committee forgetting, or at leaſt taking no notice of the former paſſages, order a new
+Survey; which being returned, and the Park upon ſale, he went to him then called Lord
+<hi>Richard, (Cromwell</hi> his Father having interrupted this Parliament) and deſir'd to know of
+him, whether he would let the Park go ſo, or whether he had forgot our former agreement? his
+anſwer was, No, he had not forgot it, but for the Park he would not meddle with it; and
+there<g ref="char:EOLhyphen"/>fore bade him do in it what he would: Whereupon he preſt it to him, how convenient it lay
+for his Eſtate, and therefore if he pleaſed, he would purchaſe it, &amp; he ſhould have the
+whole, or half at the ſame rate it coſt him. To which he ſaid, he wanted moneys. He reply'd,
+Let not that trouble you I will pur<g ref="char:EOLhyphen"/>chaſe the whole, and truſt you for one half, till you are
+able to pay me; but before we proceed farther, I will acquaint your Father: which being
+accord<g ref="char:EOLhyphen"/>ingly done, and he having ſhewn him a particular of other Lands that were likewiſe upon
+ſale, and offer'd him his choice; he took me in his arms, and told me, that himſelf, his Son,
+and Family were more beholding to me, then all the world beſides; and therefore bade me go on and
+proſper.</p>
+            <p>Upon this, he went the next morning about it, and there being a full Com<g ref="char:EOLhyphen"/>mittee, he was juſt
+upon the point of contracting for the ſaid Park; when on a ſuddain in came the Lord
+<hi>Richard</hi> (his Father then overtopping all in power) with three Lawyers with him, and
+required them to proceed no further in it, in regard it was his own Inheritance, and no Park, as
+was ſuppoſed: where<g ref="char:EOLhyphen"/>upon he informed the Committee of the whole diſcourſe, that paſſed
+between the General, his ſon, and him ſelf the night before; upon which he fell upon him in
+foul words, ſaying, <hi>Sirrah, Sirrah, hold your tongue, or I ſhall make you repent the time
+you were born;</hi> which the Committee perceiving, they deſir'd us to withdraw; and ſince that
+time, never durſt meddle with the Park any farther.</p>
+            <p>Hereupon the anger of the Father and Son waxed hot againſt the ſaid Lieut. Col.
+<hi>Joyce.</hi>
+            </p>
+            <p>Upon this, and alſo upon the ſaid Lieut. Col. his bearing teſtimony in the publique
+meetings of the Officers againſt the Armies Apoſtacy at that time, who were then concurring to
+make the ſaid Lord General, <hi>Lord Protector,</hi> endeavours were uſed to ruine him; and to
+that purpoſe his Lieutenant (who had before given information againſt the Lieut. Col. but could
+make nothing of it, as the Commiſſioners who had been appointed to examine the matters
+alledged, had ſignified to the General) was ſent for from <hi>Portland</hi> by General
+<hi>Cromwell,</hi> and by him encouraged to proſecute his Lieut. Col. again, and con<g ref="char:EOLhyphen"/>trary to the
+courſe and Cuſtome of the Army, privately appointed about 9 Officers, ſuch as he could then
+truſt in ſuch an affair, <hi>viz.</hi> Col. <hi>Whaly</hi> Col. <hi>G.</hi> Col.
+<hi>Gravener,</hi> Lieut. Col. <hi>White,</hi> and Lieut. Col. <hi>Worſley, &amp;c.</hi> to take
+the Lieutenant's information againſt him; and they (having no power thereunto) took his
+depoſition againſt the Lieut. Col. who falſly ſwore, That he ſhould hear the Lieut. Col.
+ſay, (in a diſcourſe in <hi>Portland</hi> about the death of <hi>Lockyer</hi>) That he was
+ſorry that <hi>Lockyer</hi> had not piſtoll'd <hi>Cromwell;</hi> and thereupon ſent him to
+priſon without bayl, and order was given, that he ſhould be kept cloſe priſoner: So he was
+carried away with Muſqueteers to the <hi>Mewes,</hi> and put into a cloſe Chamber within the
+common Dutch priſon, where the lice creep<g ref="char:EOLhyphen"/>ed up very thick, and where he was forced to continue
+above 10 dayes; After great importunity he obtained a remove to another Chamber in the
+<hi>Mewes,</hi> where he fell ſick with the filthy ſmells, and other inconveniencies, and
+con<g ref="char:EOLhyphen"/>tinued ten weeks, but was often ſent to by <hi>Oliver Cromwel</hi> to lay down his
+<hi>Com<g ref="char:EOLhyphen"/>miſſion,</hi> which he abſolutely refuſed to do; declaring to all, how unworthily
+he was dealt with, and that what was ſworn againſt him was falſe, and that it would at laſt
+appear to the view of the whole world; and when they ſhould
+<pb n="4" facs="tcp:154013:3" rendition="simple:additions"/>
+underſtand what was the deſign, they would marvail; And when he could not be perſwaded out of
+his Commiſſion, Articles were drawn againſt him; and by the falſe and double-ſwearing,
+and proſecution of his Lieutenant (ſo encouraged as aforeſaid) and the Officers privately
+inſtructed by their Ge<g ref="char:EOLhyphen"/>neral, he was outed and caſhiered, though the Lieut. Colonel was in his
+own Conſcience clear of any Crime or Offence unſtable by any Law, or deſerving ſuch
+uſage.</p>
+            <p>After this the ſaid Lieutenant moved the General, then called <hi>Protector,</hi> for his
+promiſed preferment, and his charges, in proſecution; but he anſwered him in theſe words:
+<hi>You have not dealt like a Chriſtian with your Lieut. Col.</hi> Joyce. To which the Lieut.
+replyed, <hi>That he had done nothing but what he had commanded him, and perſwaded him into, upon
+hopes of preferment.</hi> Whereupon the General thruſt him out of his Chamber, and bad him go
+like a Knave as he was.</p>
+            <p>This was the Caſe; but the effects of it were more conſiderable, as to the ruine of his
+eſtate: for before he was in priſon, he had made large Contracts, and paid many pounds in part;
+by which means, he was endebted greatly to private perſons, who as ſoon as they heard he was in
+priſon, came ſo thick upon him, that to ſatisfie them, was forc't to ſell at ſuch under
+Rates, or elſe relin<g ref="char:EOLhyphen"/>quiſh his bargain, that he loſt above 3000 <hi>li.</hi> in money, and
+500 <hi>li. per annum,</hi> in Lands, and he pays Intereſt at preſent for 1200 <hi>li.</hi> and
+he ows the Common-Wealth 1600 and odd pounds in Money and Bills for the Eſtate he now lives in;
+which being part of that which was the Lord <hi>Cravens,</hi> no man can deal in it, there being
+ſo many Clamours about it.</p>
+            <p>And now that he hath declared to your Honours, both his Caſe and Suffe<g ref="char:EOLhyphen"/>rings, he knows not
+what he ſhould add more, unleſs it be to beſeech your Honours ſo to take them into
+ſerious conſideration, that being vindicated to the World, he may once again appear to be an
+honeſt man, a true Servant o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Country; or elſe ſuffer according to his
+deſerts, if he ſhall be found the contrary.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
